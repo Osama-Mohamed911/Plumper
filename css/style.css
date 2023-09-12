@@ -131,7 +131,7 @@ header nav .menu li:hover{
 /* end header  */
 /* start landing  */
 .landing{
-    background-image: url(/image/landing.jpg) ;
+    background-image: url(../image/landing.jpg) ;
     background-size: cover;
     background-position: center;
     height: 100vh;
